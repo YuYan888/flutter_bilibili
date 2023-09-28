@@ -44,7 +44,7 @@ class HiTab extends StatelessWidget {
       labelColor: primary,
       unselectedLabelColor: _unselectedLabelColor,
       labelStyle: TextStyle(fontSize: fontSize),
-      indicator: UnderlineIndicator(
+      indicator: UnderlineIndicator(//UnderlineTabIndicator
           strokeCap: StrokeCap.square,
           borderSide: BorderSide(color: primary, width: borderWidth),
           insets: EdgeInsets.only(left: insets, right: insets)),

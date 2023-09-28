@@ -57,7 +57,7 @@
     },
     {
       "name": "build_resolvers",
-      "rootUri": "file:///Users/zhanyu/.pub-cache/hosted/pub.flutter-io.cn/build_resolvers-2.3.2",
+      "rootUri": "file:///Users/zhanyu/.pub-cache/hosted/pub.flutter-io.cn/build_resolvers-2.4.0",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
@@ -69,7 +69,7 @@
     },
     {
       "name": "build_runner_core",
-      "rootUri": "file:///Users/zhanyu/.pub-cache/hosted/pub.flutter-io.cn/build_runner_core-7.2.10",
+      "rootUri": "file:///Users/zhanyu/.pub-cache/hosted/pub.flutter-io.cn/build_runner_core-7.2.11",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
@@ -87,21 +87,21 @@
     },
     {
       "name": "cached_network_image",
-      "rootUri": "file:///Users/zhanyu/.pub-cache/hosted/pub.flutter-io.cn/cached_network_image-3.2.3",
+      "rootUri": "file:///Users/zhanyu/.pub-cache/hosted/pub.flutter-io.cn/cached_network_image-3.3.0",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.0"
     },
     {
       "name": "cached_network_image_platform_interface",
-      "rootUri": "file:///Users/zhanyu/.pub-cache/hosted/pub.flutter-io.cn/cached_network_image_platform_interface-2.0.0",
+      "rootUri": "file:///Users/zhanyu/.pub-cache/hosted/pub.flutter-io.cn/cached_network_image_platform_interface-3.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.0"
     },
     {
       "name": "cached_network_image_web",
-      "rootUri": "file:///Users/zhanyu/.pub-cache/hosted/pub.flutter-io.cn/cached_network_image_web-1.0.2",
+      "rootUri": "file:///Users/zhanyu/.pub-cache/hosted/pub.flutter-io.cn/cached_network_image_web-1.1.0",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.0"
     },
     {
       "name": "card_swiper",
@@ -135,7 +135,7 @@
     },
     {
       "name": "code_builder",
-      "rootUri": "file:///Users/zhanyu/.pub-cache/hosted/pub.flutter-io.cn/code_builder-4.6.0",
+      "rootUri": "file:///Users/zhanyu/.pub-cache/hosted/pub.flutter-io.cn/code_builder-4.7.0",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
@@ -216,12 +216,6 @@
       "rootUri": "file:///Users/zhanyu/Workspace/flutter/packages/flutter",
       "packageUri": "lib/",
       "languageVersion": "3.0"
-    },
-    {
-      "name": "flutter_blurhash",
-      "rootUri": "file:///Users/zhanyu/.pub-cache/hosted/pub.flutter-io.cn/flutter_blurhash-0.7.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.15"
     },
     {
       "name": "flutter_cache_manager",
@@ -375,7 +369,7 @@
     },
     {
       "name": "octo_image",
-      "rootUri": "file:///Users/zhanyu/.pub-cache/hosted/pub.flutter-io.cn/octo_image-1.0.2",
+      "rootUri": "file:///Users/zhanyu/.pub-cache/hosted/pub.flutter-io.cn/octo_image-2.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -711,7 +705,7 @@
     },
     {
       "name": "uuid",
-      "rootUri": "file:///Users/zhanyu/.pub-cache/hosted/pub.flutter-io.cn/uuid-4.0.0",
+      "rootUri": "file:///Users/zhanyu/.pub-cache/hosted/pub.flutter-io.cn/uuid-4.1.0",
       "packageUri": "lib/",
       "languageVersion": "2.14"
     },
@@ -812,7 +806,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2023-09-25T09:21:49.589522Z",
+  "generated": "2023-09-26T08:40:04.280163Z",
   "generator": "pub",
   "generatorVersion": "3.1.2"
 }
